@@ -1,0 +1,22 @@
+{
+  "name": "maa-utils",
+  "version": "1.0.0",
+  "description": "JS通用代码片段整理工具类集合",
+  "main": "src/index.js",
+  "scripts": {    
+    "publish":"npm version minor"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myijun/Maa.git"
+  },
+  "keywords": [
+    "代码片段"
+  ],
+  "author": "kebin ma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/myijun/Maa/issues"
+  },
+  "homepage": "https://github.com/myijun/Maa#readme"
+}

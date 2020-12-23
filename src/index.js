@@ -1,4 +1,4 @@
-export * from "./Libs/util/MRequest"
+export * from "./libs/util/MRequest"
 
 export default class Maa {
 
